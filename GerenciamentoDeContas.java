@@ -7,7 +7,7 @@ public class GerenciamentoDeContas {
 		conta1.limite = 100;
 
 		System.out.println("--------------------------------------------");
-		System.ou.println("CONTA");
+		System.out.println("CONTA");
 		System.out.println("--------------------------------------------");
 		System.out.println("Dono: " + conta1.nome);
 		System.out.println("Numero: " + conta1.numero);
@@ -21,7 +21,7 @@ public class GerenciamentoDeContas {
 		conta2.saldo = 299;
 		conta2.limite = 900;
 		
-		System.ou.println("CONTA");
+		System.out.println("CONTA");
 		System.out.println("--------------------------------------------");
 		System.out.println("Dono: " + conta2.nome);
 		System.out.println("Numero: " + conta2.numero);
